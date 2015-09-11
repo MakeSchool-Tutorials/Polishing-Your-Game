@@ -1,6 +1,6 @@
 ---
-title: "Analytics"
-slug: analytics
+title: "More Analytics"
+slug: analytics-video
 ---
 
 This lecture will discuss using analytics with your game. We will watch it together.
